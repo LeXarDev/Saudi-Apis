@@ -1,9 +1,12 @@
 # منصة واجهات البرمجة المفتوحة 🌐
 
 <div align="center">
-  <img src="public/og-image.png" alt="Saudi APIs Logo" width="600px"/>
   <br/>
   <br/>
+</div>
+
+<div align="center">
+  <img src="public/preview.png" alt="Saudi APIs Preview" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 <div dir="rtl">
