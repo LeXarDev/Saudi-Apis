@@ -1,94 +1,88 @@
-# 🌐 منصة واجهات البرمجة المفتوحة | Saudi APIs
+# منصة واجهات البرمجة المفتوحة 🌐
+
+<div align="center">
+  <img src="public/og-image.png" alt="Saudi APIs Logo" width="600px"/>
+  <br/>
+  <br/>
+  
+  [![GitHub stars](https://img.shields.io/github/stars/LeXarDev/Saudi-Apis?style=flat-square&logo=github)](https://github.com/LeXarDev/Saudi-Apis/stargazers)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+  [![Website](https://img.shields.io/badge/Website-Live-blue?style=flat-square&logo=vercel)](https://saudi-apis.vercel.app)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/LeXarDev?style=flat-square&logo=x&color=black)](https://twitter.com/LeXarDev)
+</div>
 
 <div dir="rtl">
 
+## 🚀 نظرة عامة
+
+**منصة واجهات البرمجة المفتوحة** هي مرجعك الشامل لجميع واجهات البرمجة (APIs) المتاحة في المملكة العربية السعودية. نهدف إلى:
+- تسهيل وصول المطورين للخدمات والبيانات المفتوحة
+- توفير توثيق شامل وواضح لكل واجهة برمجية
+- دعم المطورين في بناء تطبيقات مبتكرة
+
+## ⚡ المميزات
+
+- 🔍 **بحث متقدم**: محرك بحث ذكي للعثور على واجهات البرمجة بسهولة
+- 📱 **تصميم متجاوب**: يعمل بشكل مثالي على جميع الأجهزة
+- 🌙 **الوضع الليلي**: تجربة مريحة للعين في جميع الأوقات
+- 🔄 **تحديثات مستمرة**: إضافة واجهات برمجة جديدة بشكل دوري
+- 📖 **توثيق شامل**: شرح مفصل لكيفية استخدام كل واجهة برمجية
+- 🌐 **دعم كامل للعربية**: واجهة مستخدم ثنائية اللغة
+
+## 🛠 التقنيات المستخدمة
+
 <div align="center">
 
-![Saudi APIs Logo](public/og-image.png)
-
-[![GitHub stars](https://img.shields.io/github/stars/LeXarDev/Saudi-Apis?style=for-the-badge)](https://github.com/LeXarDev/Saudi-Apis/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![React](https://img.shields.io/badge/React-18.2-blue.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-blue.svg?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-4.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 </div>
 
-## 📋 نظرة عامة
+## 💻 البدء السريع
 
-منصة واجهات البرمجة المفتوحة هي دليلك الشامل لجميع واجهات البرمجة (APIs) المتاحة في المملكة العربية السعودية. تهدف المنصة إلى تسهيل وصول المطورين إلى الخدمات والبيانات المفتوحة، وتعزيز التطوير والابتكار في المملكة.
+1. **استنساخ المشروع**
+   ```bash
+   git clone https://github.com/LeXarDev/Saudi-Apis.git
+   ```
 
-### ✨ المميزات الرئيسية
+2. **تثبيت المتطلبات**
+   ```bash
+   cd Saudi-Apis
+   npm install
+   ```
 
-- 🔍 محرك بحث متقدم للواجهات البرمجية
-- 📱 تصميم متجاوب يعمل على جميع الأجهزة
-- 🌙 دعم الوضع الليلي
-- 🔄 تحديثات مستمرة للواجهات البرمجية
-- 🚀 أداء عالي وسرعة في التحميل
-- 🌐 دعم كامل للغة العربية
-
-## 🚀 البدء السريع
-
-### المتطلبات الأساسية
-
-- Node.js (الإصدار 16 أو أحدث)
-- npm أو yarn
-
-### خطوات التثبيت
-
-\```bash
-# استنساخ المشروع
-git clone https://github.com/LeXarDev/Saudi-Apis.git
-
-# الدخول إلى مجلد المشروع
-cd Saudi-Apis
-
-# تثبيت المتطلبات
-npm install
-# أو
-yarn install
-
-# تشغيل المشروع في بيئة التطوير
-npm run dev
-# أو
-yarn dev
-\```
-
-## 🛠️ التقنيات المستخدمة
-
-- **React** - إطار العمل الأساسي
-- **TypeScript** - لغة البرمجة
-- **Tailwind CSS** - تنسيق وتصميم الواجهة
-- **Vite** - أداة البناء
-- **Lucide Icons** - مكتبة الأيقونات
+3. **تشغيل المشروع**
+   ```bash
+   npm run dev
+   ```
 
 ## 🤝 المساهمة
 
-نرحب بمساهماتكم! إذا كنت ترغب في المساهمة، يرجى اتباع الخطوات التالية:
+نرحب بمساهماتكم! يمكنكم المساهمة عبر:
 
-1. قم بعمل Fork للمشروع
-2. قم بإنشاء فرع جديد للميزة (`git checkout -b feature/amazing-feature`)
-3. قم بإجراء تغييراتك وتوثيقها
-4. قم برفع التغييرات (`git push origin feature/amazing-feature`)
-5. قم بفتح طلب دمج (Pull Request)
+1. 🍴 عمل Fork للمشروع
+2. 🔧 إنشاء فرع للميزة الجديدة
+3. 📝 تقديم طلب Pull Request
+4. ⭐ إضافة نجمة للمشروع إذا أعجبك
 
-## 📝 الترخيص
+## 📄 الترخيص
 
-هذا المشروع مرخص تحت رخصة MIT - انظر ملف [LICENSE](LICENSE) للتفاصيل.
+هذا المشروع مرخص تحت رخصة MIT - راجع ملف [LICENSE](LICENSE) للتفاصيل.
 
-## 📞 التواصل
+## 🌟 شكر خاص
 
-- **تويتر**: [@LeXarDev](https://x.com/LeXarDev)
-- **GitHub**: [LeXarDev](https://github.com/LeXarDev)
-
-## 💫 شكر خاص
-
-شكر خاص لجميع المساهمين والداعمين لهذا المشروع. نقدر جهودكم في جعل هذه المنصة أفضل للجميع.
+شكر خاص لجميع [المساهمين](https://github.com/LeXarDev/Saudi-Apis/graphs/contributors) الذين ساعدوا في تطوير هذا المشروع.
 
 ---
 
 <div align="center">
-صنع بكل ❤️ في المملكة العربية السعودية
+  <p>
+    صنع بكل ❤️ في المملكة العربية السعودية
+    <br/>
+    <a href="https://twitter.com/LeXarDev">تويتر</a> • <a href="https://github.com/LeXarDev">جيثب</a>
+  </p>
 </div>
 
 </div>
