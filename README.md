@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/preview.png" alt="Saudi APIs Preview" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://raw.githubusercontent.com/LeXarDev/Saudi-Apis/main/screenshot.png" alt="Saudi APIs Preview" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 <div dir="rtl">
