@@ -3,6 +3,13 @@
 <div align="center">
   <br/>
   <br/>
+  
+  [![GitHub stars](https://img.shields.io/github/stars/LeXarDev/Saudi-Apis?style=flat-square&logo=github)](https://github.com/LeXarDev/Saudi-Apis/stargazers)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+  [![Website](https://img.shields.io/badge/Website-Live-blue?style=flat-square&logo=vercel)](https://saudi-apis.vercel.app)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/LeXarDev?style=flat-square&logo=x&color=black)](https://twitter.com/LeXarDev)
+</div>
+
 <div dir="rtl">
 
 ## 🚀 نظرة عامة
