@@ -1,7 +1,7 @@
 # منصة واجهات البرمجة المفتوحة 🌐
 
 <div align="center">
-  <img src="public/og-image.png" alt="Saudi APIs Logo" width="600px"/>
+  <img alt="Saudi APIs Logo" width="600px"/>
   <br/>
   <br/>
   
@@ -81,7 +81,7 @@
   <p>
     صنع بكل ❤️ في المملكة العربية السعودية
     <br/>
-    <a href="https://twitter.com/LeXarDev">تويتر</a> • <a href="https://github.com/LeXarDev">جيثب</a>
+    <a href="https://twitter.com/LeXarDev">X</a> • <a href="https://github.com/LeXarDev">جيت هاب</a>
   </p>
 </div>
 
