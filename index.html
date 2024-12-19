@@ -33,8 +33,25 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+      html, body {
+        overflow: hidden;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #root {
+        height: 100vh;
+        overflow-y: auto;
+        scrollbar-width: none; /* Firefox */
+        -ms-overflow-style: none; /* IE and Edge */
+      }
+      #root::-webkit-scrollbar {
+        display: none; /* Chrome, Safari, Opera */
+      }
+    </style>
   </head>
-  <body class="font-sans antialiased overflow-x-hidden">
+  <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
